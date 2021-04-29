@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cruip/open-react-template.git"
+    "url": "git@github.com:rafaelsbk/provaWEB3.git"
   },
   "scripts": {
     "start": "react-scripts start",
